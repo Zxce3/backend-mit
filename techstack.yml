@@ -1,0 +1,55 @@
+repo_name: Zxce3/backend-mit
+report_id: 9820bc9448fac7fd4405d5a8f8f5a91c
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:08:49+00:00'
+requested_by: Zxce3
+provider: github
+branch: main
+detected_tools_count: 4
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Zxce3/backend-mit
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Zxce3/backend-mit/blob/main/database.sql
+  detection_source: database.sql
+  last_updated_by: Ammar Faizi
+  last_updated_on: 2022-06-01 16:38:36.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/Zxce3/backend-mit/blob/main/public/adminer.php
+  detection_source: public/adminer.php
+  last_updated_by: Ammar Faizi
+  last_updated_on: 2022-06-01 16:38:36.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/backend-mit
+  detection_source: Repo Metadata
